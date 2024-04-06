@@ -14,3 +14,5 @@ TransactionItem.js: This component is responsible, for displaying transaction de
 TransactionsContainer.js: This component. Filters the list of transactions. It offers a search input field and displays only filtered transaction items.
 Step 5: npm start
 Step 6: run http://localhost:3000/ in browser
+
+![expensetracker](https://github.com/sathees-saty/react-expensetracker/assets/65384711/aea48dbd-ce82-4f7c-8a76-2c3c45637fa2)
